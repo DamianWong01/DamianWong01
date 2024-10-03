@@ -16,5 +16,6 @@ I'm Damian, a recent Economics graduate from University College London with a pa
   - I'm an avid chess player and enjoy making fresh pasta in my free time. I also have a fascination with history, particularly medieval and early modern Europe.
 
 **Here are some of my projects and repositories that showcase my interest in history and data analysis:**
+- [Retail Revenue Analysis: External Factors Impact Study](https://github.com/DamianWong01/Retail-Sales-Analysis)
 - [Interactive Map of Viking and Early Germanic Artifacts](https://github.com/DamianWong01/Artifact-Cluster-Map): A web-based interactive map using R and Google Maps API, visualizing over 300 historical artifacts from the Viking and early Germanic periods.
 - [Analyzing Historical Letters: A Python Project with Henry VIII and Anne Boleyn](https://github.com/DamianWong01/sentiment-analysis-henry-viii-letters): A sentiment analysis project using Python and NLTK to analyze letters exchanged between King Henry VIII and Anne Boleyn, providing insights into their relationship and historical context.
