@@ -14,6 +14,8 @@ I'm Damian, a recent Economics graduate from University College London with a pa
   - Recommendations for online courses, resources, or certifications to further my knowledge in these fields.
 - ⚡ Fun fact:
   - I'm an avid chess player and enjoy making fresh pasta in my free time. I also have a fascination with history, particularly medieval and early modern Europe.
+ 
+Check out my [portfolio](https://github.com/DamianWong01/Portfolio/tree/main).
 
 **Here are some of my projects and repositories that showcase my interest in history and data analysis:**
 - [Retail Revenue Analysis: External Factors Impact Study](https://github.com/DamianWong01/Retail-Sales-Analysis)
